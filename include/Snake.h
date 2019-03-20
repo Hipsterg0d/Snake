@@ -23,6 +23,7 @@ public:
 
 	/** @brief Constructor which creates a snake.
 	 * @param [in] winSize The size of the games window.
+	 * @param [in] sp The snakes speed.
 	 * @param [in] texture The texture of one segment of the snake.
 	 *
 	 * This method creates a snake. It sets the texture, size, origin and location

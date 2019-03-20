@@ -22,18 +22,20 @@ To compile the project navigate into the cloned directory:
 ```
 cd snake
 ```
-Here simply run the Makefile to start the compilation:
+Here create a new director called build:
 ```
+mkdir build; cd build
+```
+Now build the project:
+```
+cmake ..
 make
-```
-It's also possible to generate doxygen-documentation:
-```
-make docs
 ```
 
 ## Playing
 
-Start the compiled program to play the game:
+Go back to the project director and start the compiled program to play the game:
 ```
-./snake
+cd ..
+./build/snake
 ```
