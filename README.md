@@ -22,7 +22,7 @@ To compile the project navigate into the cloned directory:
 ```
 cd snake
 ```
-Here create a new director called build:
+Here create a new directory called build and change into it:
 ```
 mkdir build; cd build
 ```
@@ -34,7 +34,7 @@ make
 
 ## Playing
 
-Go back to the project director and start the compiled program to play the game:
+Go back to the project directory and start the compiled program to play the game:
 ```
 cd ..
 ./build/snake
