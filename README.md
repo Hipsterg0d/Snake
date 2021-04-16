@@ -6,7 +6,7 @@ My own implementation of the snake game.
 
 Clone this repository to build the snake game with the following command:
 ```
-git clone https://github.com/Hipsterg0d/snake.git
+git clone https://github.com/daleondev/snake.git
 ```
 
 ## Prerequisites
